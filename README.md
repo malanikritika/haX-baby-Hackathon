@@ -64,4 +64,4 @@ We used Claude, ChatGPT, Antigravity and Astra for [what each one helped with]. 
 - Kritika Malani
 - Jaagruthi Kurra
 - Sobiya Adiba
-- 
+  
